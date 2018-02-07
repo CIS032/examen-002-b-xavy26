@@ -6,8 +6,8 @@
 - Coloque finalmente en este mismo archivo los datos que se le solicita
 
 ## Datos:
-- Nombres:
-- Fecha de entrega:
-- Hora de entrega:
-- Observaciones:
+- Nombres: Luis Xavier Paredes Cuenca  
+- Fecha de entrega: 07/02/2016
+- Hora de entrega: 13:12
+- Observaciones: 
 
