@@ -11,14 +11,22 @@ package datos;
  */
 public class CuentaAhorro extends Cuenta {
 
+    int saldoSemanal;
+    
     public CuentaAhorro(String cliente) {
         super(cliente);
     }
     
-   
-
     public CuentaAhorro(String cliente, String tipoCliente, double balance, double tasaInteres) {
         super(cliente, tipoCliente, balance, tasaInteres);
+    }
+
+    public int getSaldoSemanal() {
+        return saldoSemanal;
+    }
+
+    public void setSaldoSemanal(int saldoSemanal) {
+        this.saldoSemanal = saldoSemanal;
     }
     
     @Override
